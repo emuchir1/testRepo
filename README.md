@@ -2,6 +2,10 @@
 ## H2
 ### H3 
 
+
+$y = \beta_0 + \beta_1 x + \beta_2 x^2$
+
+
 A repository for explaining **github** using **bold text** and maybe some *italicized text*
 
 1. This is the first item
