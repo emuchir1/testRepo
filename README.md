@@ -22,8 +22,8 @@ A repository for explaining **github** using **bold text** and maybe some *itali
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+|  **Header** | Title |
+| *Paragraph* | Text |
 
 
 - [x] Write the press release
